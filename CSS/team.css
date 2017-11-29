@@ -1,17 +1,17 @@
 /* Username Color */
-#chat .user-5618102d6d8d111d002aca6f a.username { /* Ciker */
+#chat .user-564348a13824d25f0041979a a.username { /* Ciker */
   color: #DB182E !important;
   font-weight: bold;
 }
 
 /* Badge */
-#chat .user-5618102d6d8d111d002aca6f .image_row { /* Ciker */
+#chat .user-564348a13824d25f0041979a .image_row { /* Ciker */
 	content: url(https://www.dropbox.com/s/smokgtodlttpwb9/DEVBADGE30px.png?raw=1);
 }
 
 
 /* Icon */
-#chat .chat-container ul.chat-main li.user-5618102d6d8d111d002aca6f .activity-row .text p a.username:before { /* Ciker */
+#chat .chat-container ul.chat-main li.user-564348a13824d25f0041979a .activity-row .text p a.username:before { /* Ciker */
     content: url(https://i.imgur.com/7MHdeHw.png);
     font-family: "foundation-icons";
     font-style: normal;
