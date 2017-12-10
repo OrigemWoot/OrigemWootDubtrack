@@ -42,7 +42,7 @@
 ## How To Use
 
 ```
-1. Or put this code in bookmark
+1. Put this code in bookmark
 
 javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWootDubtrack/master/origem.min.js');}());
 ```
