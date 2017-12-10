@@ -45,7 +45,6 @@
 1. Or put this code in bookmark
 
 javascript:(function(){$.getScript('https://rawgit.com/OrigemWoot/OrigemWootDubtrack/master/origem.min.js');}());
-
 ```
 
 ## Facebook
