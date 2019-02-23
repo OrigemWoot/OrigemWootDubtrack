@@ -53,7 +53,7 @@ https://www.facebook.com/origemwootnew
 
 ## Credits
 
-- [Ciker](https://github.com/CikerDeveloper) __(OWNER/DEVELOPER)__
+- [R00tS3c](https://github.com/R00tS3c) __(OWNER/DEVELOPER)__
 - [9Igorce](https://github.com/9Igorce) __(PREVIOUS DEVELOPER)__
 - [Caipira](https://github.com/LuizEdp) __(PREVIOUS DEVELOPER)__
 
