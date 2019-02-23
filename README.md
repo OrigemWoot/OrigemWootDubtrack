@@ -79,5 +79,5 @@ GPL-3.0
 
 ---
 
-> GitHub [@CikerDeveloper](https://github.com/CikerDeveloper) &nbsp;&middot;&nbsp;
+> GitHub [@R00tS3c](https://github.com/R00tS3c) &nbsp;&middot;&nbsp;
 
